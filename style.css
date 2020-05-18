@@ -65,7 +65,7 @@ li > img { flex-shrink: 0;
 .item11  {grid-column:4/5;}
 .item22 {grid-column: 1/3;}
 .item23 {grid-column: 3/5;}
-.item24 {grid-column: 1/3;}
+.item24 {grid-column: 1/4;}
 .item26 {grid-column: 4/5;}
 .item11 {grid-column: 3/5;}
 .item25 {grid-column: 1/3;}
